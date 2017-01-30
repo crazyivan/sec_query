@@ -1,6 +1,7 @@
 # encoding: UTF-8
 
 # external
+
 require 'active_support/all'
 require 'addressable/uri'
 require 'open-uri'

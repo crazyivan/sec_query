@@ -28,4 +28,6 @@ Gem::Specification.new do |s|
   s.add_runtime_dependency 'rest-client', '~> 1.8'
   s.add_runtime_dependency 'addressable', '~> 2.3'
   s.add_runtime_dependency 'nokogiri', '~> 1.6'
+  s.add_runtime_dependency 'rake'
+  s.add_runtime_dependency 'activesupport'
 end
